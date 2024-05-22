@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KBotManager", "KBotManager\KBotManager\KBotManager.csproj", "{AE2BD2CD-008B-4A02-934C-94BAE003F53A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KBotManager.Client", "KBotManager\KBotManager.Client\KBotManager.Client.csproj", "{399E8E2F-C3F8-4B1C-B6A0-7367ED5A0958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE2BD2CD-008B-4A02-934C-94BAE003F53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2BD2CD-008B-4A02-934C-94BAE003F53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2BD2CD-008B-4A02-934C-94BAE003F53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2BD2CD-008B-4A02-934C-94BAE003F53A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{399E8E2F-C3F8-4B1C-B6A0-7367ED5A0958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399E8E2F-C3F8-4B1C-B6A0-7367ED5A0958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399E8E2F-C3F8-4B1C-B6A0-7367ED5A0958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399E8E2F-C3F8-4B1C-B6A0-7367ED5A0958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
