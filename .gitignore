@@ -402,3 +402,6 @@ FodyWeavers.xsd
 *.db
 *.db-shm
 *.db-wal
+
+# Dev APP Settings
+*.Development.json
